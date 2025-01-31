@@ -1,0 +1,5 @@
+.banner{
+    background: linear-gradient(90deg, #2D1B69, #502D7F, #733A94);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
