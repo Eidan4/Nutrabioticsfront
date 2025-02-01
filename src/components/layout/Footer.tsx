@@ -8,30 +8,30 @@ export default function Footer() {
                 <div>
                     <h3 className="font-bold text-lg mb-2">Compañía</h3>
                     <ul className="space-y-1 text-sm">
-                        <li><a href="#">Inicio</a></li>
-                        <li><a href="#">Nosotros</a></li>
-                        <li><a href="#">Aliados</a></li>
-                        <li><a href="#">Contáctanos</a></li>
-                        <li><a href="#">Trabaja con nosotros</a></li>
+                        <li><a href="/">Inicio</a></li>
+                        <li><a href="https://nutrabiotics.info/nosotros">Nosotros</a></li>
+                        <li><a href="https://nutrabiotics.info/aliados">Aliados</a></li>
+                        <li><a href="https://nutrabiotics.info/contactanos">Contáctanos</a></li>
+                        <li><a href="https://nutrabiotics.info/trabaja-con-nosotros">Trabaja con nosotros</a></li>
                     </ul>
                 </div>
 
                 <div>
                     <h3 className="font-bold text-lg mb-2">Atención</h3>
                     <ul className="space-y-1 text-sm">
-                        <li><a href="#">PQRSF</a></li>
-                        <li><a href="#">Políticas</a></li>
-                        <li><a href="#">Calidad y certificados</a></li>
+                        <li><a href="https://nutrabiotics.info/pqrsf">PQRSF</a></li>
+                        <li><a href="https://nutrabiotics.info/politicas">Políticas</a></li>
+                        <li><a href="https://nutrabiotics.info/calidad">Calidad y certificados</a></li>
                     </ul>
                 </div>
 
                 <div>
                     <h3 className="font-bold text-lg mb-2">De interés</h3>
                     <ul className="space-y-1 text-sm">
-                        <li><a href="#">Ilumina</a></li>
-                        <li><a href="#">Alivia</a></li>
-                        <li><a href="#">Eventos</a></li>
-                        <li><a href="#">Zona educativa</a></li>
+                        <li><a href="https://ilumina.nutrabiotics.info/lots/readLotProductSubcategoryFront/23-012">Ilumina</a></li>
+                        <li><a href="https://co.alivia.la">Alivia</a></li>
+                        <li><a href="https://nhub.events/eventos/nutrabiotics/?v=ab6c04006660">Eventos</a></li>
+                        <li><a href="https://nhub.events/ingreso/?_redirect_to=https%3A%2F%2Fnhub.events%2Fzona-educativa%2Fnutrabiotics%2F&v=ab6c04006660">Zona educativa</a></li>
                     </ul>
                 </div>
 
